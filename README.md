@@ -1,6 +1,19 @@
-```
 
-  .       ..... ... . ... ..          .....      .                              
+# Gustav Data - Ett initiativ att samla Svensk data
+
+I vårt vackra land finns det gröna kullar, älvar, sjöar, skärgård i nästan alla vädersträck och data... en massa data! 
+Detta repo är till för att samla data på ett tillgängligt sätt, så att teknik kan möta behov genom datan. 
+
+### Vision 
+
+1. Samla svensk data under `data_sources`, skriv exempelkod på hur en hämtar data och lägg upp jupyter notebooks med analys och modeller som ger oss alla insikter. 
+2. Gör all data centralt tillgänglig
+3. Bygg ett python bibliotek som kan hämta och hantera datan 
+4. Gör Sverige till ett bättre land genom dataanalys
+
+
+
+```
 ..........,,,,,.,,,,,,,.,,,,,...................................................
 ........,,,,,,**//(/*,,,.............,......,...................................
 .......(##%###%%%#%%%**,............**,,,,,,,,,.................................
@@ -40,7 +53,3 @@
 &(*&@@@@@@@@@(**%#/*(@@@@@@@@&&%&%@@@@#%(&%##%(*%#*%*&&/%*,(**#%%,.(#/,#/.(#//**
 #&(@&@@@&&@&&@@@@@@@(@(&/(@%%((&*#@@@@@&(%*/%/%#/#%%&,%*#*%(#/*##,#(/&./(,/(%/#(
 ```
-
-
-# gustav-data
-Gustav Data, Svea rikes första kung av statistik, maskininlärning och explorativ dataanalys!
