@@ -53,3 +53,13 @@ Detta repo är till för att samla data på ett tillgängligt sätt, så att tek
 &(*&@@@@@@@@@(**%#/*(@@@@@@@@&&%&%@@@@#%(&%##%(*%#*%*&&/%*,(**#%%,.(#/,#/.(#//**
 #&(@&@@@&&@&&@@@@@@@(@(&/(@%%((&*#@@@@@&(%*/%/%#/#%%&,%*#*%(#/*##,#(/&./(,/(%/#(
 ```
+
+
+
+## Stöd för analys: 
+
+### NLP på svenska:
+
+Modeller tränade för att användas på svenska:
+1. https://github.com/Kungbib/swedish-bert-models
+
